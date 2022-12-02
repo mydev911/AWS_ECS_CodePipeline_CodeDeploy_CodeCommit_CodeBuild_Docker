@@ -1,4 +1,6 @@
-## ON aws ec2 create docker image with centos and install http 
+## ON aws ec2 create docker image with centos and install http  apache (mannual way)
+### With dockerfile plz click bellwo
+
 #### https://youtu.be/d7PTjQiahOQ
 
 #### Create Ec2 and Attetch with elestic ip
